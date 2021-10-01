@@ -1,4 +1,6 @@
 // Create a class property without a constructor
+import './styles/main.scss'
+
 class Game {
     name = 'Violin Charades'
   }
